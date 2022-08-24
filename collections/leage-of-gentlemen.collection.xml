@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11373</md:content-id>  <md:title>Leage of gentlemen</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>da</md:language>              <md:uuid>16427d73-bbbb-4f16-82a8-0f6d5669388b</md:uuid>
-<md:slug>leage-of-gentlemen</md:slug>
-</metadata>  <col:content>          <col:module document="m41287"/>                            <col:module document="m41246"/>                            <col:module document="m41259"/>                            <col:module document="m41273"/>                            <col:module document="m41250"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book" authors="Thomas Jensen">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11373</md:content-id>
+    <md:title>Leage of gentlemen</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>da</md:language>
+    <md:uuid>16427d73-bbbb-4f16-82a8-0f6d5669388b</md:uuid>
+    <md:slug>leage-of-gentlemen</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m41287"/>
+    <col:module document="m41246"/>
+    <col:module document="m41259"/>
+    <col:module document="m41273"/>
+    <col:module document="m41250"/>
+  </col:content>
+</col:collection>
